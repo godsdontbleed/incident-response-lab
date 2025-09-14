@@ -1,7 +1,7 @@
 # **Windows RDP Brute-Force Detection & Response**
 
 ## **Objective:**
-The objective of this lab is to introduce students to the **core concepts of incident response**, familiarize them with the **incident response lifecycle**, and help them understand how basic threats on Windows systems are detected, analyzed, and responded to by SOC Analysts.
+The objective of this lab is to simulate a real-world RDP brute-force attack on a Windows Server and demonstrate how SOC Analysts can detect, investigate, and respond using Windows Security Logs and basic incident response techniques. Students will gain hands-on experience in identifying suspicious logon events (Event ID 4625), correlating attacker IP addresses, and applying containment measures such as account lockdowns and firewall rules.
 
 ---
 
