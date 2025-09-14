@@ -1,4 +1,4 @@
-# **Introduction to Incident Response**
+# **Windows RDP Brute-Force Detection & Response**
 
 ## **Objective:**
 The objective of this lab is to introduce students to the **core concepts of incident response**, familiarize them with the **incident response lifecycle**, and help them understand how basic threats on Windows systems are detected, analyzed, and responded to by SOC Analysts.
