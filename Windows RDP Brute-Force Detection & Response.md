@@ -161,12 +161,6 @@ New-NetFirewallRule -DisplayName "Block Attacker" -Direction Inbound -RemoteAddr
 6. Report Incident:
 - Create a brief report with findings and actions taken
 
-## 📩Submission Requirements
-Submit the following:
-- Screenshot of Hydra attack in Kali Linux
-- Screenshot of Event Viewer showing multiple 4625 events
-- Firewall rule
-
 ## ✅Conclusion
 This lab demonstrated how to:
 - Simulate an RDP brute-force attack using Hydra
