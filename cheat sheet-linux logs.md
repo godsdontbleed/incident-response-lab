@@ -4,8 +4,7 @@ Linux logs are essential for **system monitoring, debugging, troubleshooting, an
 
 ---
 
-## 📂 Where Are Linux Logs Stored?
-
+## 📂 Where Are Linux Logs Store
 Most logs in Linux are stored in the `/var/log/` directory.
 
 ---
